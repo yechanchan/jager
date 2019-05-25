@@ -1,0 +1,17 @@
+ul, li {
+    list-style: none;
+}
+/* menu css */
+.jager__menu {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.jager__menu li {
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background: red;
+}
+/* menu css */
